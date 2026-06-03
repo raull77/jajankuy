@@ -12,7 +12,7 @@ import "./index.css";
 
 import App from "./App.jsx";
 import Admin from "./admin.jsx";
-import Login from "./Login.jsx";
+import Login from "./login.jsx";
 
 createRoot(
   document.getElementById("root")
